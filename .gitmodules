@@ -1,0 +1,3 @@
+[submodule "problems/cses"]
+	path = problems/cses
+	url = https://github.com/neil-d-patel2/cses.git
